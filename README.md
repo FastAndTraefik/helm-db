@@ -1,0 +1,1 @@
+Chart Helm for database deployment on EKS
